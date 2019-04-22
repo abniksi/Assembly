@@ -11,7 +11,7 @@ which would be simple enough in a more advance language. In Assembly, the task w
 the end. Task 2 was more complex soley because I had to work with arrays.
 
 For Task 2, I had to define 3 seperate arrays at the start of the program. The first two arrays had to gather 4 total user inputs. The first two were stored in the first array and the sum was then stored in the first index of our final 
-array. The process was the same for the last two user inputs except the sum was stored in the second index of the third array. I then outputted the total sum of the final array on the termainl. 
+array. The process was the same for the last two user inputs except the sum was stored in the second index of the third array. I then outputted the total sum of the final array on the terminal. 
 
 Let me try to make this simplier to understand if my wording was poor.
 
