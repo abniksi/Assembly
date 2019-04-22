@@ -1,5 +1,5 @@
       .data                                                                                   # define variable that will be stored in the static memory
-msg:  .asciiz "Start of program. Input two integers to be stored in Augend array.\n"           # declaring a string type variable with a label msg
+msg:  .asciiz "Start of program. Input two integers to be stored in Augend array.\n"          # declaring a string type variable with a label msg
 msg2: .asciiz "\nEnd of program\n"                                                            # declaring a string type variable with a label msg2
 msg3: .asciiz "\nInput two integers to be stored in Addend array.\n"                          # declaring a string type variable with a label msg3
 msg4: .asciiz "Sum: "                       # declaring a string type variable with a label msg4
