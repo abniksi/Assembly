@@ -4,7 +4,7 @@ A basic assembly lab I completed for class.
 For Task 1, I had to do basic arithmetic and then output the final value on our terminal. The equation I had to evaluate was 
 
 ```
-(a-b) + (c-d) 
+(a+b) - (c+d) 
 ```
 
 which would be simple enough in a more advance language. In Assembly, the task was tougher; however, it was not that bad in 
