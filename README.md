@@ -22,3 +22,7 @@ Sum = [60, 65] //Output 125
 ```
 
 All of the numbers above can be changed because the user inputs all the numbers that are stored in Array1 and Array2!
+
+Lab 6 Task 1 was implementing an if else statement through assembly code.
+
+Lab 6 Task 2 was implementing a for loop through assembly code.
